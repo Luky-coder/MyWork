@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C# Projet\\Projet 21-05-2024 Killian\\Projet 21-05-2024 Killian\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95F5DB15-6E23-4B5B-BFEE-8B93822F8382}|Projet.csproj|e:\\c# projet\\projet 21-05-2024 killian\\projet 21-05-2024 killian\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95F5DB15-6E23-4B5B-BFEE-8B93822F8382}|Projet.csproj|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F5DB15-6E23-4B5B-BFEE-8B93822F8382}|Projet.csproj|e:\\c# projet\\projet 21-05-2024 killian\\projet 21-05-2024 killian\\statistiques.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95F5DB15-6E23-4B5B-BFEE-8B93822F8382}|Projet.csproj|solutionrelative:statistiques.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F5DB15-6E23-4B5B-BFEE-8B93822F8382}|Projet.csproj|e:\\c# projet\\projet 21-05-2024 killian\\projet 21-05-2024 killian\\vehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95F5DB15-6E23-4B5B-BFEE-8B93822F8382}|Projet.csproj|solutionrelative:vehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client.cs",
+              "DocumentMoniker": "E:\\C# Projet\\Projet 21-05-2024 Killian\\Projet 21-05-2024 Killian\\Client.cs",
+              "RelativeDocumentMoniker": "Client.cs",
+              "ToolTip": "E:\\C# Projet\\Projet 21-05-2024 Killian\\Projet 21-05-2024 Killian\\Client.cs",
+              "RelativeToolTip": "Client.cs",
+              "ViewState": "AQIAAF0BAAAAAAAAAAAAwIoBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:24:53.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicule.cs",
+              "DocumentMoniker": "E:\\C# Projet\\Projet 21-05-2024 Killian\\Projet 21-05-2024 Killian\\Vehicule.cs",
+              "RelativeDocumentMoniker": "Vehicule.cs",
+              "ToolTip": "E:\\C# Projet\\Projet 21-05-2024 Killian\\Projet 21-05-2024 Killian\\Vehicule.cs",
+              "RelativeToolTip": "Vehicule.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAmwEIAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:05:04.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Statistiques.cs",
+              "DocumentMoniker": "E:\\C# Projet\\Projet 21-05-2024 Killian\\Projet 21-05-2024 Killian\\Statistiques.cs",
+              "RelativeDocumentMoniker": "Statistiques.cs",
+              "ToolTip": "E:\\C# Projet\\Projet 21-05-2024 Killian\\Projet 21-05-2024 Killian\\Statistiques.cs",
+              "RelativeToolTip": "Statistiques.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAiwJ8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:49:34.947Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

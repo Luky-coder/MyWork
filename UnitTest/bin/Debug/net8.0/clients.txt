@@ -1,0 +1,8 @@
+Lucas,Fournier,alaide@trans.com,06451320320,4 rue du caca,2021-02-2,n1,{},FLucas,caca
+Pierre,Ange,pierre.ange@gmail.com,0150150456,Lilles,1975-05-18,4,{},APierre,caca
+Maelle,Arbre,maelle.arbre@gmail.com,987654321,Lyon,1998-09-20,5,{},AMaelle,caca
+Lopes,Lucas,lopeslucas0311@gmail.com,0783450270,1 rue du caca,2003-12-23,efhefg,{},LLopes,mdp
+Woroniak,Gregoire,zadhiazdh,OHODH,zaoidh,2002-11-12,zoudfh,{},GWoroniak,caca
+Renoir,Nicolas,hzdhz,aizudh,aziuedh,2003-11-03,iuhgfd,{},NRenoir,caca
+test,test,test,4265456,45esr,2002-05-12,4565125,{},ttest,mdp123
+Ellul,Aline,aline@mail.com,10564234365,Marseille,1980-05-05,20205065,{},AEllul,aellul

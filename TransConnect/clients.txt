@@ -1,0 +1,2 @@
+Fournier,Killian,killianfournier@gmail.com,0685947852,Paris,2003-09-20,1,{1},KFournier,mdp
+Lopes,Lucas,lopeslucas0311@gmail.com,0783450270,Limours,2003-12-23,2,{0},LLopes,mdp

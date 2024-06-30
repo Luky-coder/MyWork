@@ -1,0 +1,15 @@
+Paris;Rouen;133;1h45
+Paris;Lyon;464;4h55
+Paris;Angers;294;3h11
+Paris;Orleans;132;1h33
+Orleans;Dijon;317;4h14
+Dijon;Lyon;195;2h03
+Lyon;Nimes;256;2h43
+Rouen;Caen;131;1h27
+Angers;La Rochelle;187;2h20
+La Rochelle;Bordeaux;183;2h00
+Bordeaux;Biarritz;202;2h18 
+Biarritz;Toulouse;309;3h11
+Toulouse;Nimes;289;2h26
+Nimes;Marseille;126;1h13
+Marseille;Avignon;99;1h00

@@ -1,0 +1,2 @@
+2,Rouen,Voiture,0,2024-05-22,0
+1,Toulouse,Voiture,1,2024-05-22,1

@@ -1,0 +1,8 @@
+FA-235-FB,Voiture,4,{23/05/2024 00:00:00}
+BA-326-AV,Voiture,4,{23/05/2024 00:00:00}
+HI-096-TY,Voiture,7,{23/05/2024 00:00:00}
+KO-399-VO,Camionette,3,{}
+FE-398-QI,Camionette,2,{}
+JD-946-UZ,Camion_benne,2,{}
+GH-968-EH,Camion_citerne,2,{}
+HI-389-ZE,Camion_frigorifique,2,{}
